@@ -1,7 +1,7 @@
 ON7LDS NextionDriver Installer and Checker
 ==========================================
 
-This is installer version 1.06 ( 31 dec 2020 )
+This is installer version 1.09 ( 2021 )
 
 12/2020 : warning that the display should already work + option to stop if not
 
