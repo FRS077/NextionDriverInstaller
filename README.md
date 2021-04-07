@@ -31,7 +31,7 @@ log in to your Pi-Star with SSH
 
 go to the /tmp directory
 ```
-**cd /tmp**
+cd /tmp
 ```
 
 get the software
